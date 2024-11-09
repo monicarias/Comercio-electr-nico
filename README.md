@@ -10,7 +10,8 @@
 
 
 
-<h3 align="center">DEMO EN PRODUCCIÓN </h3> https://sevenm-fullstack-m7-proy.onrender.com/
+<h3 align="center">DEMO EN PRODUCCIÓN </h3> 
+<p align="center">https://sevenm-fullstack-m7-proy.onrender.com/</p>
 
 La aplicación de comercio electrónico Fullstack demo es un ejemplo práctico que ilustra cómo crear y conectar una aplicación frontend y backend utilizando tecnologías modernas. 
 
