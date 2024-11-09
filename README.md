@@ -1,6 +1,13 @@
-![Banner](./../images/banner.png)
+<h1 align="center">BLOG del viajero</h1>
 
-# PROYECTO 7: Demo
+<p align="center">Un blog en html con estilos para documentar los mejores sitios turísticos</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/licencia-MAC-green" alt="Licencia MAC">
+  <img src="https://img.shields.io/badge/versi%C3%B3n-1.0.0-blue" alt="Versión">
+  <img src="https://img.shields.io/badge/contribuidores-2-brightgreen" alt="Contribuidores">
+</p>
+
 
 **DEMO EN PRODUCCIÓN:** https://sevenm-fullstack-m7-proy.onrender.com/
 
