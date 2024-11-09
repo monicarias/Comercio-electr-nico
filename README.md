@@ -1,6 +1,6 @@
-<h1 align="center">BLOG del viajero</h1>
+<h1 align="center">FullStack Comercio Electrónico</h1>
 
-<p align="center">Un blog en html con estilos para documentar los mejores sitios turísticos</p>
+<p align="center">Una aplicación donde se podrán utilizar diferentes tecnologías propias del desarrollo web fullstack</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/licencia-MAC-green" alt="Licencia MAC">
